@@ -1,2 +1,2 @@
 This is an application that makes a professional readme.md file that you can use in any project. This application uses the 'inquirer' package in all inputs and also uses ECMAScript 6 in NodeJS
-![screenshot](./video/●%20index.js%20-%20Challenge9%20-%20Visual%20Studio%20Code%202023-09-13%2023-56-37.mp4)
+![Video](./video/●%20index.js%20-%20Challenge9%20-%20Visual%20Studio%20Code%202023-09-13%2023-56-37.mp4)
